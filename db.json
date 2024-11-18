@@ -1,7 +1,7 @@
 {
   "videos": [
-    { "id": "1", "title": "Coldplay Tribute", "views": "1.5M", "thumbnail": "image_url1", "author": "OneTwo" },
-    { "id": "2", "title": "The Molecular Shape of You", "views": "920K", "thumbnail": "image_url2", "author": "Growling Sidewinder" }
+    { "id": "1", "title": "Coldplay Tribute", "views": "1.5M", "thumbnail": "https://img.freepik.com/free-photo/illustrator-tools-arrangement-still-life_23-2150174494.jpg?semt=ais_hybrid", "author": "OneTwo" },
+    { "id": "2", "title": "The Molecular Shape of You", "views": "920K", "thumbnail": "https://img.freepik.com/free-photo/child-with-drawing-astronaut-helmet_53876-133700.jpg?t=st=1731972966~exp=1731976566~hmac=0410d1b98039fa91bce7af1ccc8b4b95871347da92e60e6103de9fe0d54ea440&w=900", "author": "Growling Sidewinder" }
   ],
   "playlists": [
     { "id": "1", "name": "Favorites" },
