@@ -1,15 +1,15 @@
 {
   "videos": [
-    { id: '1', title: 'Coldplay Tribute', views: '1.2M', thumbnail: 'image_url1', author: 'OneTwo' },
-    { id: '2', title: 'The Molecular Shape of You', views: '920K', thumbnail: 'image_url2', author: 'Growling Sidewinder' },
+    { "id": "1", "title": "Coldplay Tribute", "views": "1.2M", "thumbnail": "image_url1", "author": "OneTwo" },
+    { "id": "2", "title": "The Molecular Shape of You", "views": "920K", "thumbnail": "image_url2", "author": "Growling Sidewinder" }
   ],
   "playlists": [
-    { id: '1', name: 'Favorites' },
-    { id: '2', name: 'Watch Later' },
+    { "id": "1", "name": "Favorites" },
+    { "id": "2", "name": "Watch Later" }
   ],
   "descriptions": [
-    {videoId: 0, description: 'Undefined'},
-    {videoId: 1, description: 'Short video'},
-    {videoId: 2, description: 'Long video'}
+    { "videoId": 0, "description": "Undefined" },
+    { "videoId": 1, "description": "Short video" },
+    { "videoId": 2, "description": "Long video" }
   ]
 }
