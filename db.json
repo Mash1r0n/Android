@@ -1,9 +1,15 @@
 {
-  "posts": [
-    { "id": 1, "title": "Hello World" },
-    { "id": 2, "title": "Another Post" }
+  "videos": [
+    { id: '1', title: 'Coldplay Tribute', views: '1.2M', thumbnail: 'image_url1', author: 'OneTwo' },
+    { id: '2', title: 'The Molecular Shape of You', views: '920K', thumbnail: 'image_url2', author: 'Growling Sidewinder' },
   ],
-  "comments": [
-    { "id": 1, "postId": 1, "body": "Great post!" }
+  "playlists": [
+    { id: '1', name: 'Favorites' },
+    { id: '2', name: 'Watch Later' },
+  ],
+  "descriptions": [
+    {videoId: 0, description: 'Undefined'},
+    {videoId: 1, description: 'Short video'},
+    {videoId: 2, description: 'Long video'}
   ]
 }
